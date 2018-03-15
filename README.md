@@ -31,7 +31,7 @@ To autorun tests when you try to make commit
 1. Add the pre-commit file to the directory 14_pre_commit_hook/.git/hooks
 2. Give permission to run:
 ```bash
-chmod -x  14_pre_commit_hook/.git/hooks/pre-commmit
+chmod +x /.git/hooks/pre-commmit
 ```
 # Project Goals
 
